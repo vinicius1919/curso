@@ -33,11 +33,7 @@ public class Program {
 			System.out.println("Larger Area: X");
 		}
 		else 
-			System.out.println("Larger Area: Y");
-			
-		
-		System.out.println("Fim de programa");
-		
+			System.out.println("Larger Area: Y");	
 		
 		
 		sc.close();
